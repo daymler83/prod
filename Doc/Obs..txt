@@ -1,0 +1,8 @@
+Ejemplo
+
+Índice a dos dígitos de la CIIU
+
+- 2 países: Mexico y Chile; simplemente porque tenemos los deflactores de estos dos países hasta el momento.
+- 2015-2020: Esto porque la información que utilicé para hacer el índice es que la que tenemos en cepalstat; esto no implica que no se utilice más información desde Badecon
+
+- Decision

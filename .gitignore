@@ -1,0 +1,19 @@
+# Ignorar el entorno virtual (está dentro de Scripts)
+Scripts/venv/
+
+# Ignorar cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Configuraciones sensibles
+*.env
+.env
+
+# Carpetas que no quieres subir (si aplica)
+Datos/
