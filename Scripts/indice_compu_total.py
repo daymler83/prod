@@ -5,10 +5,10 @@ from sklearn.preprocessing import StandardScaler
 import numpy as np
 import os
 
-os.chdir(r'C:\Daymler\7. Miscelláneos\20.Cepal\Prod\Anál\gráficos_índice_compuesto')
+os.chdir(r'C:\daymler\CEPAL\Prod\Anál\gráficos_índice_compuesto')
 
 # === 1. Leer datos ===
-path = r"C:\Daymler\7. Miscelláneos\20.Cepal\Prod\Datos\chl_mex_deflactada.xlsx"
+path = r"C:\daymler\CEPAL\Prod\Datos\chl_mex_deflactada.xlsx"
 df = pd.read_excel(path, sheet_name="Sheet1")
 
 # === 2. Pivotear ===

@@ -16,4 +16,4 @@ __pycache__/
 .env
 
 # Carpetas que no quieres subir (si aplica)
-Datos/
+
