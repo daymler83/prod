@@ -1,0 +1,946 @@
+﻿codigo,glosa,pais,valor,anio,variable
+,,Brasil,,2016,consumo_intermedio_por_actividad_economica
+C,Industrias manufactureras,Brasil,492983.58,2016,consumo_intermedio_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,132032.41,2016,consumo_intermedio_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,15502.74,2016,consumo_intermedio_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,2544.17,2016,consumo_intermedio_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,7550.45,2016,consumo_intermedio_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,6409.67,2016,consumo_intermedio_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,6740.74,2016,consumo_intermedio_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,3596.46,2016,consumo_intermedio_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,16110.53,2016,consumo_intermedio_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,2075.29,2016,consumo_intermedio_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,40745.64,2016,consumo_intermedio_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,58811.24,2016,consumo_intermedio_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,8859.41,2016,consumo_intermedio_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,18498.21,2016,consumo_intermedio_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,13827.2,2016,consumo_intermedio_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,33151.98,2016,consumo_intermedio_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,12383.62,2016,consumo_intermedio_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,16498.34,2016,consumo_intermedio_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,13359.92,2016,consumo_intermedio_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,17858.2,2016,consumo_intermedio_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,48704.62,2016,consumo_intermedio_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,5630.85,2016,consumo_intermedio_por_actividad_economica
+C31,Fabricación de muebles,Brasil,4677.48,2016,consumo_intermedio_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,3324.28,2016,consumo_intermedio_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,4090.13,2016,consumo_intermedio_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2016,consumo_intermedio_por_actividad_economica
+,,Brasil,,2017,consumo_intermedio_por_actividad_economica
+C,Industrias manufactureras,Brasil,580998.01,2017,consumo_intermedio_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,147117.66,2017,consumo_intermedio_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,16672.05,2017,consumo_intermedio_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,2917.68,2017,consumo_intermedio_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,8819.96,2017,consumo_intermedio_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,7394.61,2017,consumo_intermedio_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,7303.07,2017,consumo_intermedio_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,4158.5,2017,consumo_intermedio_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,17375.77,2017,consumo_intermedio_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,1909.51,2017,consumo_intermedio_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,52921.64,2017,consumo_intermedio_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,68100.48,2017,consumo_intermedio_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,9861.49,2017,consumo_intermedio_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,21002.17,2017,consumo_intermedio_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,14767.3,2017,consumo_intermedio_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,43274.09,2017,consumo_intermedio_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,14072.7,2017,consumo_intermedio_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,22043.59,2017,consumo_intermedio_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,15548.38,2017,consumo_intermedio_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,21649.01,2017,consumo_intermedio_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,62111.67,2017,consumo_intermedio_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,8227.78,2017,consumo_intermedio_por_actividad_economica
+C31,Fabricación de muebles,Brasil,5437.68,2017,consumo_intermedio_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,3770.75,2017,consumo_intermedio_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,4540.47,2017,consumo_intermedio_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2017,consumo_intermedio_por_actividad_economica
+,,Brasil,,2018,consumo_intermedio_por_actividad_economica
+C,Industrias manufactureras,Brasil,584580.31,2018,consumo_intermedio_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,137127.13,2018,consumo_intermedio_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,15598.71,2018,consumo_intermedio_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,2745.97,2018,consumo_intermedio_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,8426.54,2018,consumo_intermedio_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,6212.52,2018,consumo_intermedio_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,6067.1,2018,consumo_intermedio_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,4657.38,2018,consumo_intermedio_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,18905.67,2018,consumo_intermedio_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,1735.4,2018,consumo_intermedio_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,52474.08,2018,consumo_intermedio_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,75162.35,2018,consumo_intermedio_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,10484.01,2018,consumo_intermedio_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,20663.26,2018,consumo_intermedio_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,13962.21,2018,consumo_intermedio_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,48814.3,2018,consumo_intermedio_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,14702.52,2018,consumo_intermedio_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,23405.08,2018,consumo_intermedio_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,15011.44,2018,consumo_intermedio_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,23068.36,2018,consumo_intermedio_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,63722.52,2018,consumo_intermedio_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,8242.01,2018,consumo_intermedio_por_actividad_economica
+C31,Fabricación de muebles,Brasil,5283.97,2018,consumo_intermedio_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,3803.82,2018,consumo_intermedio_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,4303.96,2018,consumo_intermedio_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2018,consumo_intermedio_por_actividad_economica
+,,Brasil,,2019,consumo_intermedio_por_actividad_economica
+C,Industrias manufactureras,Brasil,562466.02,2019,consumo_intermedio_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,130332.83,2019,consumo_intermedio_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,16558.08,2019,consumo_intermedio_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,2713.15,2019,consumo_intermedio_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,8101.41,2019,consumo_intermedio_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,5964.08,2019,consumo_intermedio_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,5574.18,2019,consumo_intermedio_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,4247.84,2019,consumo_intermedio_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,18831.87,2019,consumo_intermedio_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,1776.59,2019,consumo_intermedio_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,47186.42,2019,consumo_intermedio_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,76438.46,2019,consumo_intermedio_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,9308.77,2019,consumo_intermedio_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,19761.26,2019,consumo_intermedio_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,13890.17,2019,consumo_intermedio_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,45020.12,2019,consumo_intermedio_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,13852.75,2019,consumo_intermedio_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,20862.29,2019,consumo_intermedio_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,15455.76,2019,consumo_intermedio_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,23391.18,2019,consumo_intermedio_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,63722.33,2019,consumo_intermedio_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,7308.49,2019,consumo_intermedio_por_actividad_economica
+C31,Fabricación de muebles,Brasil,5095.77,2019,consumo_intermedio_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,3558.72,2019,consumo_intermedio_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,3513.5,2019,consumo_intermedio_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2019,consumo_intermedio_por_actividad_economica
+,,Brasil,,2020,consumo_intermedio_por_actividad_economica
+C,Industrias manufactureras,Brasil,471390.41,2020,consumo_intermedio_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,129984.42,2020,consumo_intermedio_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,13742.21,2020,consumo_intermedio_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,2239.73,2020,consumo_intermedio_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,6320.95,2020,consumo_intermedio_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,4181.34,2020,consumo_intermedio_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,3715.05,2020,consumo_intermedio_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,3633.62,2020,consumo_intermedio_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,15461.01,2020,consumo_intermedio_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,1301.41,2020,consumo_intermedio_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,28239.72,2020,consumo_intermedio_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,63188.61,2020,consumo_intermedio_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,8012.14,2020,consumo_intermedio_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,17379.76,2020,consumo_intermedio_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,11596.86,2020,consumo_intermedio_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,36630.17,2020,consumo_intermedio_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,12841.19,2020,consumo_intermedio_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,17858.86,2020,consumo_intermedio_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,14312.41,2020,consumo_intermedio_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,20140.81,2020,consumo_intermedio_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,43110.76,2020,consumo_intermedio_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,6741.75,2020,consumo_intermedio_por_actividad_economica
+C31,Fabricación de muebles,Brasil,4405.03,2020,consumo_intermedio_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,3089.45,2020,consumo_intermedio_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,3263.15,2020,consumo_intermedio_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2020,consumo_intermedio_por_actividad_economica
+,,Brasil,,2021,consumo_intermedio_por_actividad_economica
+C,Industrias manufactureras,Brasil,20908.88,2021,consumo_intermedio_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,319885.97,2021,consumo_intermedio_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,29832.06,2021,consumo_intermedio_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,4966.91,2021,consumo_intermedio_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,18344.24,2021,consumo_intermedio_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,11157.7,2021,consumo_intermedio_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,10422.9,2021,consumo_intermedio_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,10991.1,2021,consumo_intermedio_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,41279.69,2021,consumo_intermedio_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,2850.8,2021,consumo_intermedio_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,-233134.62,2021,consumo_intermedio_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,-129102.64,2021,consumo_intermedio_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,17608.76,2021,consumo_intermedio_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,48971.05,2021,consumo_intermedio_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,31174.14,2021,consumo_intermedio_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,122438.83,2021,consumo_intermedio_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,38781.97,2021,consumo_intermedio_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,-271342.34,2021,consumo_intermedio_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,38863.67,2021,consumo_intermedio_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,65027.91,2021,consumo_intermedio_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,117232.76,2021,consumo_intermedio_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,-300851.73,2021,consumo_intermedio_por_actividad_economica
+C31,Fabricación de muebles,Brasil,11383.85,2021,consumo_intermedio_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,7895.72,2021,consumo_intermedio_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,6230.18,2021,consumo_intermedio_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2021,consumo_intermedio_por_actividad_economica
+,,Brasil,,2022,consumo_intermedio_por_actividad_economica
+C,Industrias manufactureras,Brasil,262113.59,2022,consumo_intermedio_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,393684.11,2022,consumo_intermedio_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,37102.08,2022,consumo_intermedio_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,6580.72,2022,consumo_intermedio_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,19999.05,2022,consumo_intermedio_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,13611.04,2022,consumo_intermedio_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,13437.49,2022,consumo_intermedio_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,12875.18,2022,consumo_intermedio_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,49058.5,2022,consumo_intermedio_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,3662.37,2022,consumo_intermedio_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,-194830.95,2022,consumo_intermedio_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,-102772.48,2022,consumo_intermedio_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,20944.79,2022,consumo_intermedio_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,55575.03,2022,consumo_intermedio_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,38968.55,2022,consumo_intermedio_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,136323.47,2022,consumo_intermedio_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,41080.25,2022,consumo_intermedio_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,-277919.44,2022,consumo_intermedio_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,44593.92,2022,consumo_intermedio_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,78989.89,2022,consumo_intermedio_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,148997.91,2022,consumo_intermedio_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,-308093.7,2022,consumo_intermedio_por_actividad_economica
+C31,Fabricación de muebles,Brasil,11778.9,2022,consumo_intermedio_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,8940.51,2022,consumo_intermedio_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,9526.4,2022,consumo_intermedio_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2022,consumo_intermedio_por_actividad_economica
+,,Brasil,,2016,nivel_ocupados_por_actividad_economica
+C,Industrias manufactureras,Brasil,5675564,2016,nivel_ocupados_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,1465753,2016,nivel_ocupados_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,157273,2016,nivel_ocupados_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,17431,2016,nivel_ocupados_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,198629,2016,nivel_ocupados_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,366205,2016,nivel_ocupados_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,295957,2016,nivel_ocupados_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,99150,2016,nivel_ocupados_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,163139,2016,nivel_ocupados_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,45925,2016,nivel_ocupados_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,73081,2016,nivel_ocupados_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,349409,2016,nivel_ocupados_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,100743,2016,nivel_ocupados_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,296550,2016,nivel_ocupados_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,260917,2016,nivel_ocupados_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,185386,2016,nivel_ocupados_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,244309,2016,nivel_ocupados_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,111056,2016,nivel_ocupados_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,184311,2016,nivel_ocupados_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,261864,2016,nivel_ocupados_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,385665,2016,nivel_ocupados_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,68850,2016,nivel_ocupados_por_actividad_economica
+C31,Fabricación de muebles,Brasil,143879,2016,nivel_ocupados_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,102735,2016,nivel_ocupados_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,97347,2016,nivel_ocupados_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2016,nivel_ocupados_por_actividad_economica
+,,Brasil,,2017,nivel_ocupados_por_actividad_economica
+C,Industrias manufactureras,Brasil,5683610,2017,nivel_ocupados_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,1496577,2017,nivel_ocupados_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,153451,2017,nivel_ocupados_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,17401,2017,nivel_ocupados_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,202088,2017,nivel_ocupados_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,365217,2017,nivel_ocupados_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,289655,2017,nivel_ocupados_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,99199,2017,nivel_ocupados_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,163568,2017,nivel_ocupados_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,44595,2017,nivel_ocupados_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,68000,2017,nivel_ocupados_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,356736,2017,nivel_ocupados_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,102454,2017,nivel_ocupados_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,291509,2017,nivel_ocupados_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,246684,2017,nivel_ocupados_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,190389,2017,nivel_ocupados_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,233895,2017,nivel_ocupados_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,111332,2017,nivel_ocupados_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,179751,2017,nivel_ocupados_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,255911,2017,nivel_ocupados_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,398545,2017,nivel_ocupados_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,72484,2017,nivel_ocupados_por_actividad_economica
+C31,Fabricación de muebles,Brasil,146532,2017,nivel_ocupados_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,101523,2017,nivel_ocupados_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,96114,2017,nivel_ocupados_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2017,nivel_ocupados_por_actividad_economica
+,,Brasil,,2018,nivel_ocupados_por_actividad_economica
+C,Industrias manufactureras,Brasil,5676048,2018,nivel_ocupados_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,1423812,2018,nivel_ocupados_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,156183,2018,nivel_ocupados_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,16866,2018,nivel_ocupados_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,198189,2018,nivel_ocupados_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,349146,2018,nivel_ocupados_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,278661,2018,nivel_ocupados_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,102127,2018,nivel_ocupados_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,163811,2018,nivel_ocupados_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,43540,2018,nivel_ocupados_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,66296,2018,nivel_ocupados_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,413216,2018,nivel_ocupados_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,104260,2018,nivel_ocupados_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,290279,2018,nivel_ocupados_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,240747,2018,nivel_ocupados_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,199522,2018,nivel_ocupados_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,232943,2018,nivel_ocupados_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,107965,2018,nivel_ocupados_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,176289,2018,nivel_ocupados_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,268903,2018,nivel_ocupados_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,413474,2018,nivel_ocupados_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,67138,2018,nivel_ocupados_por_actividad_economica
+C31,Fabricación de muebles,Brasil,149937,2018,nivel_ocupados_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,104777,2018,nivel_ocupados_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,107967,2018,nivel_ocupados_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2018,nivel_ocupados_por_actividad_economica
+,,Brasil,,2019,nivel_ocupados_por_actividad_economica
+C,Industrias manufactureras,Brasil,5661100,2019,nivel_ocupados_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,1379421,2019,nivel_ocupados_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,158777,2019,nivel_ocupados_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,15334,2019,nivel_ocupados_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,198248,2019,nivel_ocupados_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,339308,2019,nivel_ocupados_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,274894,2019,nivel_ocupados_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,97845,2019,nivel_ocupados_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,166100,2019,nivel_ocupados_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,44471,2019,nivel_ocupados_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,68585,2019,nivel_ocupados_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,460662,2019,nivel_ocupados_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,103706,2019,nivel_ocupados_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,286973,2019,nivel_ocupados_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,236461,2019,nivel_ocupados_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,199799,2019,nivel_ocupados_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,234512,2019,nivel_ocupados_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,101865,2019,nivel_ocupados_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,180890,2019,nivel_ocupados_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,277842,2019,nivel_ocupados_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,408222,2019,nivel_ocupados_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,66735,2019,nivel_ocupados_por_actividad_economica
+C31,Fabricación de muebles,Brasil,148702,2019,nivel_ocupados_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,102810,2019,nivel_ocupados_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,108938,2019,nivel_ocupados_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2019,nivel_ocupados_por_actividad_economica
+,,Brasil,,2020,nivel_ocupados_por_actividad_economica
+C,Industrias manufactureras,Brasil,5767790,2020,nivel_ocupados_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,1528892,2020,nivel_ocupados_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,155006,2020,nivel_ocupados_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,15626,2020,nivel_ocupados_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,202051,2020,nivel_ocupados_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,305799,2020,nivel_ocupados_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,255718,2020,nivel_ocupados_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,108185,2020,nivel_ocupados_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,167520,2020,nivel_ocupados_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,39980,2020,nivel_ocupados_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,68972,2020,nivel_ocupados_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,374586,2020,nivel_ocupados_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,109367,2020,nivel_ocupados_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,302932,2020,nivel_ocupados_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,250326,2020,nivel_ocupados_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,203196,2020,nivel_ocupados_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,247351,2020,nivel_ocupados_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,100036,2020,nivel_ocupados_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,192930,2020,nivel_ocupados_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,291232,2020,nivel_ocupados_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,398366,2020,nivel_ocupados_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,70893,2020,nivel_ocupados_por_actividad_economica
+C31,Fabricación de muebles,Brasil,157629,2020,nivel_ocupados_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,102959,2020,nivel_ocupados_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,118238,2020,nivel_ocupados_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2020,nivel_ocupados_por_actividad_economica
+,,Brasil,,2021,nivel_ocupados_por_actividad_economica
+C,Industrias manufactureras,Brasil,-399987916744,2021,nivel_ocupados_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,3113636,2021,nivel_ocupados_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,314574,2021,nivel_ocupados_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,31364,2021,nivel_ocupados_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,421706,2021,nivel_ocupados_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,668038,2021,nivel_ocupados_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,555348,2021,nivel_ocupados_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,242390,2021,nivel_ocupados_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,345518,2021,nivel_ocupados_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,78271,2021,nivel_ocupados_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,-99999868698,2021,nivel_ocupados_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,-99999196124,2021,nivel_ocupados_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,221951,2021,nivel_ocupados_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,616034,2021,nivel_ocupados_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,544451,2021,nivel_ocupados_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,433987,2021,nivel_ocupados_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,534315,2021,nivel_ocupados_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,-99999783472,2021,nivel_ocupados_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,403866,2021,nivel_ocupados_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,656800,2021,nivel_ocupados_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,814973,2021,nivel_ocupados_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,-99999858169,2021,nivel_ocupados_por_actividad_economica
+C31,Fabricación de muebles,Brasil,312695,2021,nivel_ocupados_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,212743,2021,nivel_ocupados_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,267059,2021,nivel_ocupados_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2021,nivel_ocupados_por_actividad_economica
+,,Brasil,,2022,nivel_ocupados_por_actividad_economica
+C,Industrias manufactureras,Brasil,-399987570625,2022,nivel_ocupados_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,3276607,2022,nivel_ocupados_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,327675,2022,nivel_ocupados_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,29910,2022,nivel_ocupados_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,406309,2022,nivel_ocupados_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,662432,2022,nivel_ocupados_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,593513,2022,nivel_ocupados_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,222357,2022,nivel_ocupados_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,363760,2022,nivel_ocupados_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,77288,2022,nivel_ocupados_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,-99999860751,2022,nivel_ocupados_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,-99999207775,2022,nivel_ocupados_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,236895,2022,nivel_ocupados_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,621606,2022,nivel_ocupados_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,539877,2022,nivel_ocupados_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,453158,2022,nivel_ocupados_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,533409,2022,nivel_ocupados_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,-99999770053,2022,nivel_ocupados_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,417570,2022,nivel_ocupados_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,677947,2022,nivel_ocupados_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,853120,2022,nivel_ocupados_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,-99999850798,2022,nivel_ocupados_por_actividad_economica
+C31,Fabricación de muebles,Brasil,304165,2022,nivel_ocupados_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,218223,2022,nivel_ocupados_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,302931,2022,nivel_ocupados_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2022,nivel_ocupados_por_actividad_economica
+,,Brasil,,2016,remuneracion_por_actividad_economica
+C,Industrias manufactureras,Brasil,107638.63,2016,remuneracion_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,19541.26,2016,remuneracion_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,2838.09,2016,remuneracion_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,494.75,2016,remuneracion_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,2299.94,2016,remuneracion_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,2824.06,2016,remuneracion_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,2240,2016,remuneracion_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,1099.49,2016,remuneracion_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,3390.61,2016,remuneracion_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,847.9,2016,remuneracion_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,10588.42,2016,remuneracion_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,8776.05,2016,remuneracion_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,3490.02,2016,remuneracion_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,4840.68,2016,remuneracion_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,4289.13,2016,remuneracion_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,5403.83,2016,remuneracion_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,4010.78,2016,remuneracion_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,2665.88,2016,remuneracion_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,4004.89,2016,remuneracion_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,6557.63,2016,remuneracion_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,10789.33,2016,remuneracion_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,1754.5,2016,remuneracion_por_actividad_economica
+C31,Fabricación de muebles,Brasil,1524.92,2016,remuneracion_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,1471.44,2016,remuneracion_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,1895.03,2016,remuneracion_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2016,remuneracion_por_actividad_economica
+,,Brasil,,2017,remuneracion_por_actividad_economica
+C,Industrias manufactureras,Brasil,118530.32,2017,remuneracion_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,22330.95,2017,remuneracion_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,3270.92,2017,remuneracion_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,570.43,2017,remuneracion_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,2719.97,2017,remuneracion_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,3236.73,2017,remuneracion_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,2575.74,2017,remuneracion_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,1241.52,2017,remuneracion_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,4079.45,2017,remuneracion_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,935.79,2017,remuneracion_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,7815.78,2017,remuneracion_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,10562.8,2017,remuneracion_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,4153.14,2017,remuneracion_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,5425.99,2017,remuneracion_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,4512.37,2017,remuneracion_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,5962.55,2017,remuneracion_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,4488.19,2017,remuneracion_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,3047.61,2017,remuneracion_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,4346.47,2017,remuneracion_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,7146.61,2017,remuneracion_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,12212.45,2017,remuneracion_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,2449.66,2017,remuneracion_por_actividad_economica
+C31,Fabricación de muebles,Brasil,1730.72,2017,remuneracion_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,1643.53,2017,remuneracion_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,2070.95,2017,remuneracion_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2017,remuneracion_por_actividad_economica
+,,Brasil,,2018,remuneracion_por_actividad_economica
+C,Industrias manufactureras,Brasil,106134.67,2018,remuneracion_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,19169.47,2018,remuneracion_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,2974.48,2018,remuneracion_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,525.12,2018,remuneracion_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,2407.12,2018,remuneracion_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,2811.67,2018,remuneracion_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,2242.64,2018,remuneracion_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,1157.73,2018,remuneracion_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,3708.74,2018,remuneracion_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,800.17,2018,remuneracion_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,6860.04,2018,remuneracion_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,10174.22,2018,remuneracion_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,3804.31,2018,remuneracion_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,4867.71,2018,remuneracion_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,3976.13,2018,remuneracion_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,5511.23,2018,remuneracion_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,3996.64,2018,remuneracion_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,2679.25,2018,remuneracion_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,3802.13,2018,remuneracion_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,6319.54,2018,remuneracion_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,11092.6,2018,remuneracion_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,2079.68,2018,remuneracion_por_actividad_economica
+C31,Fabricación de muebles,Brasil,1638.05,2018,remuneracion_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,1513.64,2018,remuneracion_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,2022.36,2018,remuneracion_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2018,remuneracion_por_actividad_economica
+,,Brasil,,2019,remuneracion_por_actividad_economica
+C,Industrias manufactureras,Brasil,101689.13,2019,remuneracion_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,17612.54,2019,remuneracion_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,2928.92,2019,remuneracion_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,465.48,2019,remuneracion_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,2290.59,2019,remuneracion_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,2647.21,2019,remuneracion_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,2129.54,2019,remuneracion_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,1065.57,2019,remuneracion_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,3605.64,2019,remuneracion_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,772.36,2019,remuneracion_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,6560.26,2019,remuneracion_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,10448.36,2019,remuneracion_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,3614.56,2019,remuneracion_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,4629.99,2019,remuneracion_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,3797,2019,remuneracion_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,5244.63,2019,remuneracion_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,3728.08,2019,remuneracion_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,2535.54,2019,remuneracion_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,3606.44,2019,remuneracion_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,6420.12,2019,remuneracion_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,10751.98,2019,remuneracion_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,1835.31,2019,remuneracion_por_actividad_economica
+C31,Fabricación de muebles,Brasil,1597.17,2019,remuneracion_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,1460.55,2019,remuneracion_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,1941.29,2019,remuneracion_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2019,remuneracion_por_actividad_economica
+,,Brasil,,2020,remuneracion_por_actividad_economica
+C,Industrias manufactureras,Brasil,77675.33,2020,remuneracion_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,15340.57,2020,remuneracion_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,2186.49,2020,remuneracion_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,370.03,2020,remuneracion_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,1620.91,2020,remuneracion_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,1704.23,2020,remuneracion_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,1364.27,2020,remuneracion_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,839.2,2020,remuneracion_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,2742.74,2020,remuneracion_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,519.06,2020,remuneracion_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,5682.95,2020,remuneracion_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,7066.24,2020,remuneracion_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,2881.65,2020,remuneracion_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,3593.93,2020,remuneracion_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,2945.81,2020,remuneracion_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,3935.93,2020,remuneracion_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,2899.27,2020,remuneracion_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,1857.33,2020,remuneracion_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,2910.63,2020,remuneracion_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,4949.73,2020,remuneracion_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,7302.95,2020,remuneracion_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,1281.15,2020,remuneracion_por_actividad_economica
+C31,Fabricación de muebles,Brasil,1203.65,2020,remuneracion_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,1057.68,2020,remuneracion_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,1418.93,2020,remuneracion_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2020,remuneracion_por_actividad_economica
+,,Brasil,,2021,remuneracion_por_actividad_economica
+C,Industrias manufactureras,Brasil,96130.18,2021,remuneracion_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,32845.47,2021,remuneracion_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,4683.01,2021,remuneracion_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,750.01,2021,remuneracion_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,3718.38,2021,remuneracion_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,3982.41,2021,remuneracion_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,3128.84,2021,remuneracion_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,2044.25,2021,remuneracion_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,5825.2,2021,remuneracion_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,1020.84,2021,remuneracion_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,-6539.14,2021,remuneracion_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,-2661.76,2021,remuneracion_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,6010.88,2021,remuneracion_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,7829.97,2021,remuneracion_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,6628.14,2021,remuneracion_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,8668.03,2021,remuneracion_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,6591.08,2021,remuneracion_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,-14503.58,2021,remuneracion_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,6426.59,2021,remuneracion_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,11382.72,2021,remuneracion_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,15705.44,2021,remuneracion_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,-15736.32,2021,remuneracion_por_actividad_economica
+C31,Fabricación de muebles,Brasil,2601.28,2021,remuneracion_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,2358.49,2021,remuneracion_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,3369.95,2021,remuneracion_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2021,remuneracion_por_actividad_economica
+,,Brasil,,2022,remuneracion_por_actividad_economica
+C,Industrias manufactureras,Brasil,123228.49,2022,remuneracion_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,39205.46,2022,remuneracion_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,5468.12,2022,remuneracion_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,831.06,2022,remuneracion_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,4314.88,2022,remuneracion_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,4717.78,2022,remuneracion_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,3964.69,2022,remuneracion_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,2350.36,2022,remuneracion_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,7128.89,2022,remuneracion_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,1173.52,2022,remuneracion_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,-5767.54,2022,remuneracion_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,-1246.18,2022,remuneracion_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,6969.66,2022,remuneracion_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,9134.91,2022,remuneracion_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,7769.63,2022,remuneracion_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,10374.57,2022,remuneracion_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,7618.2,2022,remuneracion_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,-14480.37,2022,remuneracion_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,7620.43,2022,remuneracion_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,13789.74,2022,remuneracion_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,18423.41,2022,remuneracion_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,-15995.62,2022,remuneracion_por_actividad_economica
+C31,Fabricación de muebles,Brasil,2943.53,2022,remuneracion_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,2794.97,2022,remuneracion_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,4124.39,2022,remuneracion_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2022,remuneracion_por_actividad_economica
+,,Brasil,,2016,valor_agregado_por_actividad_economica
+C,Industrias manufactureras,Brasil,182077.6,2016,valor_agregado_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,35130.87,2016,valor_agregado_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,7153.47,2016,valor_agregado_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,1043.73,2016,valor_agregado_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,3111.62,2016,valor_agregado_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,3769.54,2016,valor_agregado_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,3334.65,2016,valor_agregado_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,1792.99,2016,valor_agregado_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,8162.73,2016,valor_agregado_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,1241.46,2016,valor_agregado_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,25018.91,2016,valor_agregado_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,19660.62,2016,valor_agregado_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,5777.2,2016,valor_agregado_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,6954.19,2016,valor_agregado_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,5962.56,2016,valor_agregado_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,10359.44,2016,valor_agregado_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,5570.13,2016,valor_agregado_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,4461.75,2016,valor_agregado_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,5302.97,2016,valor_agregado_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,8779.58,2016,valor_agregado_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,10889.29,2016,valor_agregado_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,2031.27,2016,valor_agregado_por_actividad_economica
+C31,Fabricación de muebles,Brasil,1848.79,2016,valor_agregado_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,2207.51,2016,valor_agregado_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,2512.33,2016,valor_agregado_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2016,valor_agregado_por_actividad_economica
+,,Brasil,,2017,valor_agregado_por_actividad_economica
+C,Industrias manufactureras,Brasil,202753.23,2017,valor_agregado_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,39864.33,2017,valor_agregado_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,7699.36,2017,valor_agregado_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,1082.52,2017,valor_agregado_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,4030.87,2017,valor_agregado_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,4515.85,2017,valor_agregado_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,3889.95,2017,valor_agregado_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,2218.88,2017,valor_agregado_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,9825.58,2017,valor_agregado_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,1254.46,2017,valor_agregado_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,20824.13,2017,valor_agregado_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,21468.7,2017,valor_agregado_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,6901.87,2017,valor_agregado_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,7794.97,2017,valor_agregado_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,5758.44,2017,valor_agregado_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,12202.5,2017,valor_agregado_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,6105.41,2017,valor_agregado_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,5157.43,2017,valor_agregado_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,5618.79,2017,valor_agregado_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,9088.2,2017,valor_agregado_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,15814.61,2017,valor_agregado_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,3658.93,2017,valor_agregado_por_actividad_economica
+C31,Fabricación de muebles,Brasil,2137.16,2017,valor_agregado_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,2490.58,2017,valor_agregado_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,3349.71,2017,valor_agregado_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2017,valor_agregado_por_actividad_economica
+,,Brasil,,2018,valor_agregado_por_actividad_economica
+C,Industrias manufactureras,Brasil,192472.72,2018,valor_agregado_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,33707.56,2018,valor_agregado_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,6791.14,2018,valor_agregado_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,1030.64,2018,valor_agregado_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,3214.63,2018,valor_agregado_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,3954.84,2018,valor_agregado_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,3418.13,2018,valor_agregado_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,2198.56,2018,valor_agregado_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,9866.07,2018,valor_agregado_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,1135.91,2018,valor_agregado_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,24909.8,2018,valor_agregado_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,20340.67,2018,valor_agregado_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,6445.86,2018,valor_agregado_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,6464.83,2018,valor_agregado_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,5847.98,2018,valor_agregado_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,15232.47,2018,valor_agregado_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,5718.4,2018,valor_agregado_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,3855.99,2018,valor_agregado_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,5089.41,2018,valor_agregado_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,8468.87,2018,valor_agregado_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,15279.96,2018,valor_agregado_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,2398.97,2018,valor_agregado_por_actividad_economica
+C31,Fabricación de muebles,Brasil,2128.37,2018,valor_agregado_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,2218.07,2018,valor_agregado_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,2755.59,2018,valor_agregado_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2018,valor_agregado_por_actividad_economica
+,,Brasil,,2019,valor_agregado_por_actividad_economica
+C,Industrias manufactureras,Brasil,199755.61,2019,valor_agregado_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,31123.93,2019,valor_agregado_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,6762.57,2019,valor_agregado_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,987.24,2019,valor_agregado_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,3166.14,2019,valor_agregado_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,3731.72,2019,valor_agregado_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,3113.07,2019,valor_agregado_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,2103.87,2019,valor_agregado_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,8025.54,2019,valor_agregado_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,1144.65,2019,valor_agregado_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,35367.58,2019,valor_agregado_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,23119.03,2019,valor_agregado_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,6361.28,2019,valor_agregado_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,6725.76,2019,valor_agregado_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,5405.48,2019,valor_agregado_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,13090.23,2019,valor_agregado_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,6065.84,2019,valor_agregado_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,4617.47,2019,valor_agregado_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,5539.38,2019,valor_agregado_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,9078.64,2019,valor_agregado_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,14534.23,2019,valor_agregado_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,2788.59,2019,valor_agregado_por_actividad_economica
+C31,Fabricación de muebles,Brasil,2203.51,2019,valor_agregado_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,2314.19,2019,valor_agregado_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,2385.67,2019,valor_agregado_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2019,valor_agregado_por_actividad_economica
+,,Brasil,,2020,valor_agregado_por_actividad_economica
+C,Industrias manufactureras,Brasil,171113.23,2020,valor_agregado_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,33904.79,2020,valor_agregado_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,5387.47,2020,valor_agregado_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,767.01,2020,valor_agregado_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,2435.19,2020,valor_agregado_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,2394.84,2020,valor_agregado_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,2035.28,2020,valor_agregado_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,2341.28,2020,valor_agregado_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,6468.58,2020,valor_agregado_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,721.35,2020,valor_agregado_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,32738.16,2020,valor_agregado_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,18585.95,2020,valor_agregado_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,5624.07,2020,valor_agregado_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,5902.1,2020,valor_agregado_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,5287.5,2020,valor_agregado_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,12365.65,2020,valor_agregado_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,5252.17,2020,valor_agregado_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,3166.71,2020,valor_agregado_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,4379.56,2020,valor_agregado_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,7372.24,2020,valor_agregado_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,7444.89,2020,valor_agregado_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,825.21,2020,valor_agregado_por_actividad_economica
+C31,Fabricación de muebles,Brasil,1840.91,2020,valor_agregado_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,1950.34,2020,valor_agregado_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,1921.98,2020,valor_agregado_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2020,valor_agregado_por_actividad_economica
+,,Brasil,,2021,valor_agregado_por_actividad_economica
+C,Industrias manufactureras,Brasil,1486961.83,2021,valor_agregado_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,66280.49,2021,valor_agregado_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,11254.38,2021,valor_agregado_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,1254.23,2021,valor_agregado_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,6421.19,2021,valor_agregado_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,6125.23,2021,valor_agregado_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,4890.38,2021,valor_agregado_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,6786.83,2021,valor_agregado_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,14374.75,2021,valor_agregado_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,1635.44,2021,valor_agregado_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,366540.13,2021,valor_agregado_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,306067.08,2021,valor_agregado_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,12401.43,2021,valor_agregado_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,14388.98,2021,valor_agregado_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,14798.44,2021,valor_agregado_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,43147.31,2021,valor_agregado_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,12785.44,2021,valor_agregado_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,267424.39,2021,valor_agregado_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,10712.68,2021,valor_agregado_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,18866.69,2021,valor_agregado_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,24688.03,2021,valor_agregado_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,263094.63,2021,valor_agregado_por_actividad_economica
+C31,Fabricación de muebles,Brasil,3824.25,2021,valor_agregado_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,4427.28,2021,valor_agregado_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,4772.15,2021,valor_agregado_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2021,valor_agregado_por_actividad_economica
+,,Brasil,,2022,valor_agregado_por_actividad_economica
+C,Industrias manufactureras,Brasil,1656870.71,2022,valor_agregado_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,85765.72,2022,valor_agregado_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,15206.84,2022,valor_agregado_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,1605.87,2022,valor_agregado_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,7318.05,2022,valor_agregado_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,7193.11,2022,valor_agregado_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,6283.81,2022,valor_agregado_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,5822.17,2022,valor_agregado_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,17430.01,2022,valor_agregado_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,1840.71,2022,valor_agregado_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,427206.33,2022,valor_agregado_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,330303.16,2022,valor_agregado_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,14108.31,2022,valor_agregado_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,16428.56,2022,valor_agregado_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,17683.07,2022,valor_agregado_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,36397.04,2022,valor_agregado_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,15401.51,2022,valor_agregado_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,280999.37,2022,valor_agregado_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,13273.29,2022,valor_agregado_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,29217.39,2022,valor_agregado_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,38766.68,2022,valor_agregado_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,273476.67,2022,valor_agregado_por_actividad_economica
+C31,Fabricación de muebles,Brasil,4361.5,2022,valor_agregado_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,4976.65,2022,valor_agregado_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,5804.89,2022,valor_agregado_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2022,valor_agregado_por_actividad_economica
+,,Brasil,,2016,valor_bruto_produccion_por_actividad_economica
+C,Industrias manufactureras,Brasil,675061.19,2016,valor_bruto_produccion_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,167163.28,2016,valor_bruto_produccion_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,22656.2,2016,valor_bruto_produccion_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,3587.9,2016,valor_bruto_produccion_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,10662.06,2016,valor_bruto_produccion_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,10179.21,2016,valor_bruto_produccion_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,10075.39,2016,valor_bruto_produccion_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,5389.45,2016,valor_bruto_produccion_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,24273.26,2016,valor_bruto_produccion_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,3316.75,2016,valor_bruto_produccion_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,65764.54,2016,valor_bruto_produccion_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,78471.86,2016,valor_bruto_produccion_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,14636.62,2016,valor_bruto_produccion_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,25452.4,2016,valor_bruto_produccion_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,19789.76,2016,valor_bruto_produccion_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,43511.42,2016,valor_bruto_produccion_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,17953.75,2016,valor_bruto_produccion_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,20960.1,2016,valor_bruto_produccion_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,18662.89,2016,valor_bruto_produccion_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,26637.79,2016,valor_bruto_produccion_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,59593.91,2016,valor_bruto_produccion_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,7662.12,2016,valor_bruto_produccion_por_actividad_economica
+C31,Fabricación de muebles,Brasil,6526.27,2016,valor_bruto_produccion_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,5531.8,2016,valor_bruto_produccion_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,6602.46,2016,valor_bruto_produccion_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2016,valor_bruto_produccion_por_actividad_economica
+,,Brasil,,2017,valor_bruto_produccion_por_actividad_economica
+C,Industrias manufactureras,Brasil,783751.22,2017,valor_bruto_produccion_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,186981.99,2017,valor_bruto_produccion_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,24371.4,2017,valor_bruto_produccion_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,4000.2,2017,valor_bruto_produccion_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,12850.82,2017,valor_bruto_produccion_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,11910.46,2017,valor_bruto_produccion_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,11193.03,2017,valor_bruto_produccion_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,6377.38,2017,valor_bruto_produccion_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,27201.35,2017,valor_bruto_produccion_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,3163.97,2017,valor_bruto_produccion_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,73745.77,2017,valor_bruto_produccion_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,89569.18,2017,valor_bruto_produccion_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,16763.35,2017,valor_bruto_produccion_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,28797.14,2017,valor_bruto_produccion_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,20525.74,2017,valor_bruto_produccion_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,55476.6,2017,valor_bruto_produccion_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,20178.11,2017,valor_bruto_produccion_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,27201.02,2017,valor_bruto_produccion_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,21167.16,2017,valor_bruto_produccion_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,30737.21,2017,valor_bruto_produccion_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,77926.28,2017,valor_bruto_produccion_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,11886.7,2017,valor_bruto_produccion_por_actividad_economica
+C31,Fabricación de muebles,Brasil,7574.84,2017,valor_bruto_produccion_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,6261.34,2017,valor_bruto_produccion_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,7890.18,2017,valor_bruto_produccion_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2017,valor_bruto_produccion_por_actividad_economica
+,,Brasil,,2018,valor_bruto_produccion_por_actividad_economica
+C,Industrias manufactureras,Brasil,777053.04,2018,valor_bruto_produccion_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,170834.68,2018,valor_bruto_produccion_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,22389.85,2018,valor_bruto_produccion_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,3776.61,2018,valor_bruto_produccion_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,11641.17,2018,valor_bruto_produccion_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,10167.35,2018,valor_bruto_produccion_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,9485.23,2018,valor_bruto_produccion_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,6855.93,2018,valor_bruto_produccion_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,28771.74,2018,valor_bruto_produccion_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,2871.31,2018,valor_bruto_produccion_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,77383.88,2018,valor_bruto_produccion_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,95503.02,2018,valor_bruto_produccion_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,16929.87,2018,valor_bruto_produccion_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,27128.09,2018,valor_bruto_produccion_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,19810.2,2018,valor_bruto_produccion_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,64046.78,2018,valor_bruto_produccion_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,20420.92,2018,valor_bruto_produccion_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,27261.07,2018,valor_bruto_produccion_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,20100.86,2018,valor_bruto_produccion_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,31537.24,2018,valor_bruto_produccion_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,79002.48,2018,valor_bruto_produccion_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,10640.97,2018,valor_bruto_produccion_por_actividad_economica
+C31,Fabricación de muebles,Brasil,7412.34,2018,valor_bruto_produccion_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,6021.9,2018,valor_bruto_produccion_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,7059.55,2018,valor_bruto_produccion_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2018,valor_bruto_produccion_por_actividad_economica
+,,Brasil,,2019,valor_bruto_produccion_por_actividad_economica
+C,Industrias manufactureras,Brasil,762221.65,2019,valor_bruto_produccion_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,161456.76,2019,valor_bruto_produccion_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,23320.64,2019,valor_bruto_produccion_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,3700.39,2019,valor_bruto_produccion_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,11267.55,2019,valor_bruto_produccion_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,9695.8,2019,valor_bruto_produccion_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,8687.26,2019,valor_bruto_produccion_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,6351.71,2019,valor_bruto_produccion_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,26857.41,2019,valor_bruto_produccion_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,2921.23,2019,valor_bruto_produccion_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,82554.01,2019,valor_bruto_produccion_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,99557.49,2019,valor_bruto_produccion_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,15670.05,2019,valor_bruto_produccion_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,26487.03,2019,valor_bruto_produccion_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,19295.65,2019,valor_bruto_produccion_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,58110.35,2019,valor_bruto_produccion_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,19918.59,2019,valor_bruto_produccion_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,25479.77,2019,valor_bruto_produccion_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,20995.14,2019,valor_bruto_produccion_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,32469.82,2019,valor_bruto_produccion_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,78256.56,2019,valor_bruto_produccion_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,10097.08,2019,valor_bruto_produccion_por_actividad_economica
+C31,Fabricación de muebles,Brasil,7299.28,2019,valor_bruto_produccion_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,5872.91,2019,valor_bruto_produccion_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,5899.17,2019,valor_bruto_produccion_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2019,valor_bruto_produccion_por_actividad_economica
+,,Brasil,,2020,valor_bruto_produccion_por_actividad_economica
+C,Industrias manufactureras,Brasil,642503.64,2020,valor_bruto_produccion_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,163889.2,2020,valor_bruto_produccion_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,19129.68,2020,valor_bruto_produccion_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,3006.74,2020,valor_bruto_produccion_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,8756.14,2020,valor_bruto_produccion_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,6576.19,2020,valor_bruto_produccion_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,5750.33,2020,valor_bruto_produccion_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,5974.9,2020,valor_bruto_produccion_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,21929.59,2020,valor_bruto_produccion_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,2022.76,2020,valor_bruto_produccion_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,60977.88,2020,valor_bruto_produccion_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,81774.56,2020,valor_bruto_produccion_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,13636.21,2020,valor_bruto_produccion_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,23281.86,2020,valor_bruto_produccion_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,16884.36,2020,valor_bruto_produccion_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,48995.82,2020,valor_bruto_produccion_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,18093.37,2020,valor_bruto_produccion_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,21025.57,2020,valor_bruto_produccion_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,18691.97,2020,valor_bruto_produccion_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,27513.05,2020,valor_bruto_produccion_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,50555.65,2020,valor_bruto_produccion_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,7566.96,2020,valor_bruto_produccion_por_actividad_economica
+C31,Fabricación de muebles,Brasil,6245.93,2020,valor_bruto_produccion_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,5039.79,2020,valor_bruto_produccion_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,5185.13,2020,valor_bruto_produccion_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2020,valor_bruto_produccion_por_actividad_economica
+,,Brasil,,2021,valor_bruto_produccion_por_actividad_economica
+C,Industrias manufactureras,Brasil,864048.18,2021,valor_bruto_produccion_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,191972.94,2021,valor_bruto_produccion_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,20532.51,2021,valor_bruto_produccion_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,3112.49,2021,valor_bruto_produccion_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,12374.29,2021,valor_bruto_produccion_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,8632.93,2021,valor_bruto_produccion_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,7666.86,2021,valor_bruto_produccion_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,8941.46,2021,valor_bruto_produccion_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,27772.62,2021,valor_bruto_produccion_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,2260.1,2021,valor_bruto_produccion_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,94398.64,2021,valor_bruto_produccion_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,116626.37,2021,valor_bruto_produccion_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,15100.04,2021,valor_bruto_produccion_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,31921.95,2021,valor_bruto_produccion_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,22942.71,2021,valor_bruto_produccion_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,82220.95,2021,valor_bruto_produccion_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,26208.54,2021,valor_bruto_produccion_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,26003.47,2021,valor_bruto_produccion_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,24644.18,2021,valor_bruto_produccion_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,41711.89,2021,valor_bruto_produccion_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,70863.93,2021,valor_bruto_produccion_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,8922.78,2021,valor_bruto_produccion_por_actividad_economica
+C31,Fabricación de muebles,Brasil,7599.6,2021,valor_bruto_produccion_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,6140.08,2021,valor_bruto_produccion_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,5476.85,2021,valor_bruto_produccion_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2021,valor_bruto_produccion_por_actividad_economica
+,,Brasil,,2022,valor_bruto_produccion_por_actividad_economica
+C,Industrias manufactureras,Brasil,1078051.71,2022,valor_bruto_produccion_por_actividad_economica
+C10,Elaboración de productos alimenticios,Brasil,242995.97,2022,valor_bruto_produccion_por_actividad_economica
+C11,Elaboración de bebidas,Brasil,26163.76,2022,valor_bruto_produccion_por_actividad_economica
+C12,Elaboración de productos de tabaco,Brasil,4093.18,2022,valor_bruto_produccion_por_actividad_economica
+C13,Fabricación de productos textiles,Brasil,13615.09,2022,valor_bruto_produccion_por_actividad_economica
+C14,Fabricación de prendas de vestir,Brasil,10415.16,2022,valor_bruto_produccion_por_actividad_economica
+C15,Fabricación de productos de cuero y productos conexos,Brasil,9854.02,2022,valor_bruto_produccion_por_actividad_economica
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Brasil,9371.1,2022,valor_bruto_produccion_por_actividad_economica
+C17,Fabricación de papel y de productos de papel,Brasil,33110.67,2022,valor_bruto_produccion_por_actividad_economica
+C18,Impresión y reproducción de grabaciones,Brasil,2759.15,2022,valor_bruto_produccion_por_actividad_economica
+C19,Fabricación de coque y productos de la refinación del petróleo,Brasil,144994.18,2022,valor_bruto_produccion_por_actividad_economica
+C20,Fabricación de sustancias y productos químicos,Brasil,142731.48,2022,valor_bruto_produccion_por_actividad_economica
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",Brasil,17519.96,2022,valor_bruto_produccion_por_actividad_economica
+C22,Fabricación de productos de caucho y de plástico,Brasil,36056.25,2022,valor_bruto_produccion_por_actividad_economica
+C23,Fabricación de otros productos minerales no metálicos,Brasil,28203.48,2022,valor_bruto_produccion_por_actividad_economica
+C24,Fabricación de metales comunes,Brasil,86246.62,2022,valor_bruto_produccion_por_actividad_economica
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Brasil,28379.01,2022,valor_bruto_produccion_por_actividad_economica
+C26,"Fabricación de productos de informática, de electrónica y de óptica",Brasil,30377,2022,valor_bruto_produccion_por_actividad_economica
+C27,Fabricación de equipo eléctrico,Brasil,28886.24,2022,valor_bruto_produccion_por_actividad_economica
+C28,Fabricación de maquinaria y equipo n.c.p.,Brasil,53978.47,2022,valor_bruto_produccion_por_actividad_economica
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",Brasil,93953.34,2022,valor_bruto_produccion_por_actividad_economica
+C30,Fabricación de otro equipo de transporte,Brasil,11540.55,2022,valor_bruto_produccion_por_actividad_economica
+C31,Fabricación de muebles,Brasil,8070.11,2022,valor_bruto_produccion_por_actividad_economica
+C32,Otras industrias manufactureras,Brasil,7012.32,2022,valor_bruto_produccion_por_actividad_economica
+C33,Reparación e instalación de maquinaria y equipo,Brasil,7724.6,2022,valor_bruto_produccion_por_actividad_economica
+CXX,Otras empresas/establecimientos anonimizados,Brasil,-,2022,valor_bruto_produccion_por_actividad_economica
