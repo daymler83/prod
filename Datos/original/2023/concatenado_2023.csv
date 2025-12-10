@@ -1,0 +1,580 @@
+﻿codigo,glosa,anio,pais,valor,variable
+C,Industrias manufactureras,2023,Brasil,768089.77,consumo_intermedio
+C10,Elaboración de productos alimenticios,2023,Brasil,201405.06,consumo_intermedio
+C11,Elaboración de bebidas,2023,Brasil,20950.57,consumo_intermedio
+C12,Elaboración de productos de tabaco,2023,Brasil,3703.11,consumo_intermedio
+C13,Fabricación de productos textiles,2023,Brasil,9516.41,consumo_intermedio
+C14,Fabricación de prendas de vestir,2023,Brasil,6931.3,consumo_intermedio
+C15,Fabricación de productos de cuero y productos conexos,2023,Brasil,6326.71,consumo_intermedio
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,Brasil,5867.78,consumo_intermedio
+C17,Fabricación de papel y de productos de papel,2023,Brasil,23968.51,consumo_intermedio
+C18,Impresión y reproducción de grabaciones,2023,Brasil,1921.59,consumo_intermedio
+C19,Fabricación de coque y productos de la refinación del petróleo,2023,Brasil,62334.14,consumo_intermedio
+C20,Fabricación de sustancias y productos químicos,2023,Brasil,99799.39,consumo_intermedio
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,Brasil,11659.53,consumo_intermedio
+C22,Fabricación de productos de caucho y de plástico,2023,Brasil,26005.49,consumo_intermedio
+C23,Fabricación de otros productos minerales no metálicos,2023,Brasil,20292.82,consumo_intermedio
+C24,Fabricación de metales comunes,2023,Brasil,62493.11,consumo_intermedio
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,Brasil,19049.38,consumo_intermedio
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,Brasil,22358.64,consumo_intermedio
+C27,Fabricación de equipo eléctrico,2023,Brasil,22580.73,consumo_intermedio
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,Brasil,38036.35,consumo_intermedio
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,Brasil,76631.89,consumo_intermedio
+C30,Fabricación de otro equipo de transporte,2023,Brasil,10019.61,consumo_intermedio
+C31,Fabricación de muebles,2023,Brasil,6012.89,consumo_intermedio
+C32,Otras industrias manufactureras,2023,Brasil,4684.34,consumo_intermedio
+C33,Reparación e instalación de maquinaria y equipo,2023,Brasil,5540.42,consumo_intermedio
+C,Industrias manufactureras,2023,Chile,60219.28,consumo_intermedio
+C10,Elaboración de productos alimenticios,2023,Chile,24144.65,consumo_intermedio
+C11,Elaboración de bebidas,2023,Chile,4015.59,consumo_intermedio
+C13,Fabricación de productos textiles,2023,Chile,158.09,consumo_intermedio
+C14,Fabricación de prendas de vestir,2023,Chile,64.4,consumo_intermedio
+C15,Fabricación de productos de cuero y productos conexos,2023,Chile,25.5,consumo_intermedio
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,Chile,2068.8,consumo_intermedio
+C17,Fabricación de papel y de productos de papel,2023,Chile,2804.53,consumo_intermedio
+C18,Impresión y reproducción de grabaciones,2023,Chile,197.76,consumo_intermedio
+C20,Fabricación de sustancias y productos químicos,2023,Chile,12427.37,consumo_intermedio
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,Chile,744.69,consumo_intermedio
+C22,Fabricación de productos de caucho y de plástico,2023,Chile,2004.2,consumo_intermedio
+C23,Fabricación de otros productos minerales no metálicos,2023,Chile,2302.03,consumo_intermedio
+C24,Fabricación de metales comunes,2023,Chile,2214.38,consumo_intermedio
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,Chile,1477.01,consumo_intermedio
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,Chile,12.67,consumo_intermedio
+C27,Fabricación de equipo eléctrico,2023,Chile,832.13,consumo_intermedio
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,Chile,432.91,consumo_intermedio
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,Chile,97.9,consumo_intermedio
+C30,Fabricación de otro equipo de transporte,2023,Chile,32.04,consumo_intermedio
+C31,Fabricación de muebles,2023,Chile,377.37,consumo_intermedio
+C32,Otras industrias manufactureras,2023,Chile,81.81,consumo_intermedio
+C33,Reparación e instalación de maquinaria y equipo,2023,Chile,664.11,consumo_intermedio
+CXX,Otras empresas/establecimientos anonimizados,2023,Chile,3039.34,consumo_intermedio
+C,Industrias manufactureras,2023,Ecuador,33604.44,consumo_intermedio
+C10,Elaboración de productos alimenticios,2023,Ecuador,15091.41,consumo_intermedio
+C11,Elaboración de bebidas,2023,Ecuador,959.58,consumo_intermedio
+C13,Fabricación de productos textiles,2023,Ecuador,414.01,consumo_intermedio
+C14,Fabricación de prendas de vestir,2023,Ecuador,183.54,consumo_intermedio
+C15,Fabricación de productos de cuero y productos conexos,2023,Ecuador,231.16,consumo_intermedio
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,Ecuador,408.65,consumo_intermedio
+C17,Fabricación de papel y de productos de papel,2023,Ecuador,1516.46,consumo_intermedio
+C18,Impresión y reproducción de grabaciones,2023,Ecuador,128.31,consumo_intermedio
+C19,Fabricación de coque y productos de la refinación del petróleo,2023,Ecuador,7373.92,consumo_intermedio
+C20,Fabricación de sustancias y productos químicos,2023,Ecuador,1285.27,consumo_intermedio
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,Ecuador,303.2,consumo_intermedio
+C22,Fabricación de productos de caucho y de plástico,2023,Ecuador,1125.53,consumo_intermedio
+C23,Fabricación de otros productos minerales no metálicos,2023,Ecuador,732.98,consumo_intermedio
+C24,Fabricación de metales comunes,2023,Ecuador,1144.31,consumo_intermedio
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,Ecuador,794.52,consumo_intermedio
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,Ecuador,218.61,consumo_intermedio
+C27,Fabricación de equipo eléctrico,2023,Ecuador,523.03,consumo_intermedio
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,Ecuador,65.14,consumo_intermedio
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,Ecuador,432.79,consumo_intermedio
+C30,Fabricación de otro equipo de transporte,2023,Ecuador,217.85,consumo_intermedio
+C31,Fabricación de muebles,2023,Ecuador,183.21,consumo_intermedio
+C32,Otras industrias manufactureras,2023,Ecuador,12.37,consumo_intermedio
+C33,Reparación e instalación de maquinaria y equipo,2023,Ecuador,258.59,consumo_intermedio
+C,Industrias manufactureras,2023,México,423751.91,consumo_intermedio
+C10,Elaboración de productos alimenticios,2023,México,65680.79,consumo_intermedio
+C11,Elaboración de bebidas,2023,México,19090.21,consumo_intermedio
+C12,Elaboración de productos de tabaco,2023,México,395.67,consumo_intermedio
+C13,Fabricación de productos textiles,2023,México,13615.05,consumo_intermedio
+C14,Fabricación de prendas de vestir,2023,México,3318.57,consumo_intermedio
+C15,Fabricación de productos de cuero y productos conexos,2023,México,2643.4,consumo_intermedio
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,México,2876.98,consumo_intermedio
+C17,Fabricación de papel y de productos de papel,2023,México,13746.57,consumo_intermedio
+C18,Impresión y reproducción de grabaciones,2023,México,485.6,consumo_intermedio
+C19,Fabricación de coque y productos de la refinación del petróleo,2023,México,16071.07,consumo_intermedio
+C20,Fabricación de sustancias y productos químicos,2023,México,34964.9,consumo_intermedio
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,México,1202.33,consumo_intermedio
+C22,Fabricación de productos de caucho y de plástico,2023,México,18600.2,consumo_intermedio
+C23,Fabricación de otros productos minerales no metálicos,2023,México,18901.68,consumo_intermedio
+C24,Fabricación de metales comunes,2023,México,35559.29,consumo_intermedio
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,México,21431.71,consumo_intermedio
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,México,5073.22,consumo_intermedio
+C27,Fabricación de equipo eléctrico,2023,México,24814.61,consumo_intermedio
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,México,33700.14,consumo_intermedio
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,México,89014.0,consumo_intermedio
+C30,Fabricación de otro equipo de transporte,2023,México,636.02,consumo_intermedio
+C31,Fabricación de muebles,2023,México,1322.42,consumo_intermedio
+C32,Otras industrias manufactureras,2023,México,607.48,consumo_intermedio
+C,Industrias manufactureras,2023,Chile,762630863.0,horas_trabajadas
+C10,Elaboración de productos alimenticios,2023,Chile,292638071.0,horas_trabajadas
+C11,Elaboración de bebidas,2023,Chile,37270862.0,horas_trabajadas
+C13,Fabricación de productos textiles,2023,Chile,5445286.0,horas_trabajadas
+C14,Fabricación de prendas de vestir,2023,Chile,4445301.0,horas_trabajadas
+C15,Fabricación de productos de cuero y productos conexos,2023,Chile,2246004.0,horas_trabajadas
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,Chile,40189833.0,horas_trabajadas
+C17,Fabricación de papel y de productos de papel,2023,Chile,31109887.0,horas_trabajadas
+C18,Impresión y reproducción de grabaciones,2023,Chile,6909679.0,horas_trabajadas
+C20,Fabricación de sustancias y productos químicos,2023,Chile,46427410.0,horas_trabajadas
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,Chile,20022262.0,horas_trabajadas
+C22,Fabricación de productos de caucho y de plástico,2023,Chile,39921018.0,horas_trabajadas
+C23,Fabricación de otros productos minerales no metálicos,2023,Chile,32921068.0,horas_trabajadas
+C24,Fabricación de metales comunes,2023,Chile,14134686.0,horas_trabajadas
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,Chile,48303820.0,horas_trabajadas
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,Chile,628673.0,horas_trabajadas
+C27,Fabricación de equipo eléctrico,2023,Chile,12774274.0,horas_trabajadas
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,Chile,12457715.0,horas_trabajadas
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,Chile,1818642.0,horas_trabajadas
+C30,Fabricación de otro equipo de transporte,2023,Chile,375289.0,horas_trabajadas
+C31,Fabricación de muebles,2023,Chile,18755255.0,horas_trabajadas
+C32,Otras industrias manufactureras,2023,Chile,3618253.0,horas_trabajadas
+C33,Reparación e instalación de maquinaria y equipo,2023,Chile,60831599.0,horas_trabajadas
+CXX,Otras empresas/establecimientos anonimizados,2023,Chile,29385976.0,horas_trabajadas
+C,Industrias manufactureras,2023,México,11401544000.0,horas_trabajadas
+C10,Elaboración de productos alimenticios,2023,México,2293842000.0,horas_trabajadas
+C11,Elaboración de bebidas,2023,México,395631000.0,horas_trabajadas
+C12,Elaboración de productos de tabaco,2023,México,4778000.0,horas_trabajadas
+C13,Fabricación de productos textiles,2023,México,906379000.0,horas_trabajadas
+C14,Fabricación de prendas de vestir,2023,México,537928000.0,horas_trabajadas
+C15,Fabricación de productos de cuero y productos conexos,2023,México,287911000.0,horas_trabajadas
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,México,236004000.0,horas_trabajadas
+C17,Fabricación de papel y de productos de papel,2023,México,264424000.0,horas_trabajadas
+C18,Impresión y reproducción de grabaciones,2023,México,24479000.0,horas_trabajadas
+C19,Fabricación de coque y productos de la refinación del petróleo,2023,México,56987000.0,horas_trabajadas
+C20,Fabricación de sustancias y productos químicos,2023,México,419055000.0,horas_trabajadas
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,México,187670000.0,horas_trabajadas
+C22,Fabricación de productos de caucho y de plástico,2023,México,656952000.0,horas_trabajadas
+C23,Fabricación de otros productos minerales no metálicos,2023,México,499960000.0,horas_trabajadas
+C24,Fabricación de metales comunes,2023,México,263905000.0,horas_trabajadas
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,México,905483000.0,horas_trabajadas
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,México,803082000.0,horas_trabajadas
+C27,Fabricación de equipo eléctrico,2023,México,1050313000.0,horas_trabajadas
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,México,1056389000.0,horas_trabajadas
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,México,267699000.0,horas_trabajadas
+C30,Fabricación de otro equipo de transporte,2023,México,53039000.0,horas_trabajadas
+C31,Fabricación de muebles,2023,México,209031000.0,horas_trabajadas
+C32,Otras industrias manufactureras,2023,México,20603000.0,horas_trabajadas
+C,Industrias manufactureras,2023,Brasil,6322197.0,nivel_ocupados
+C10,Elaboración de productos alimenticios,2023,Brasil,1715308.0,nivel_ocupados
+C11,Elaboración de bebidas,2023,Brasil,170841.0,nivel_ocupados
+C12,Elaboración de productos de tabaco,2023,Brasil,16162.0,nivel_ocupados
+C13,Fabricación de productos textiles,2023,Brasil,203240.0,nivel_ocupados
+C14,Fabricación de prendas de vestir,2023,Brasil,316253.0,nivel_ocupados
+C15,Fabricación de productos de cuero y productos conexos,2023,Brasil,277687.0,nivel_ocupados
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,Brasil,107480.0,nivel_ocupados
+C17,Fabricación de papel y de productos de papel,2023,Brasil,189920.0,nivel_ocupados
+C18,Impresión y reproducción de grabaciones,2023,Brasil,39647.0,nivel_ocupados
+C19,Fabricación de coque y productos de la refinación del petróleo,2023,Brasil,73427.0,nivel_ocupados
+C20,Fabricación de sustancias y productos químicos,2023,Brasil,400861.0,nivel_ocupados
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,Brasil,119017.0,nivel_ocupados
+C22,Fabricación de productos de caucho y de plástico,2023,Brasil,321694.0,nivel_ocupados
+C23,Fabricación de otros productos minerales no metálicos,2023,Brasil,272372.0,nivel_ocupados
+C24,Fabricación de metales comunes,2023,Brasil,227616.0,nivel_ocupados
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,Brasil,274899.0,nivel_ocupados
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,Brasil,108367.0,nivel_ocupados
+C27,Fabricación de equipo eléctrico,2023,Brasil,213125.0,nivel_ocupados
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,Brasil,337015.0,nivel_ocupados
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,Brasil,424342.0,nivel_ocupados
+C30,Fabricación de otro equipo de transporte,2023,Brasil,83518.0,nivel_ocupados
+C31,Fabricación de muebles,2023,Brasil,153854.0,nivel_ocupados
+C32,Otras industrias manufactureras,2023,Brasil,110194.0,nivel_ocupados
+C33,Reparación e instalación de maquinaria y equipo,2023,Brasil,165358.0,nivel_ocupados
+C,Industrias manufactureras,2023,Chile,383847.0,nivel_ocupados
+C10,Elaboración de productos alimenticios,2023,Chile,152098.0,nivel_ocupados
+C11,Elaboración de bebidas,2023,Chile,18785.0,nivel_ocupados
+C13,Fabricación de productos textiles,2023,Chile,2727.0,nivel_ocupados
+C14,Fabricación de prendas de vestir,2023,Chile,2384.0,nivel_ocupados
+C15,Fabricación de productos de cuero y productos conexos,2023,Chile,999.0,nivel_ocupados
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,Chile,21456.0,nivel_ocupados
+C17,Fabricación de papel y de productos de papel,2023,Chile,15292.0,nivel_ocupados
+C18,Impresión y reproducción de grabaciones,2023,Chile,3244.0,nivel_ocupados
+C20,Fabricación de sustancias y productos químicos,2023,Chile,29897.0,nivel_ocupados
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,Chile,10785.0,nivel_ocupados
+C22,Fabricación de productos de caucho y de plástico,2023,Chile,21284.0,nivel_ocupados
+C23,Fabricación de otros productos minerales no metálicos,2023,Chile,16910.0,nivel_ocupados
+C24,Fabricación de metales comunes,2023,Chile,6347.0,nivel_ocupados
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,Chile,16826.0,nivel_ocupados
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,Chile,346.0,nivel_ocupados
+C27,Fabricación de equipo eléctrico,2023,Chile,5836.0,nivel_ocupados
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,Chile,6552.0,nivel_ocupados
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,Chile,1417.0,nivel_ocupados
+C30,Fabricación de otro equipo de transporte,2023,Chile,653.0,nivel_ocupados
+C31,Fabricación de muebles,2023,Chile,9179.0,nivel_ocupados
+C32,Otras industrias manufactureras,2023,Chile,1570.0,nivel_ocupados
+C33,Reparación e instalación de maquinaria y equipo,2023,Chile,25270.0,nivel_ocupados
+CXX,Otras empresas/establecimientos anonimizados,2023,Chile,13990.0,nivel_ocupados
+C,Industrias manufactureras,2023,Ecuador,275413.0,nivel_ocupados
+C10,Elaboración de productos alimenticios,2023,Ecuador,143916.0,nivel_ocupados
+C11,Elaboración de bebidas,2023,Ecuador,8870.0,nivel_ocupados
+C13,Fabricación de productos textiles,2023,Ecuador,11336.0,nivel_ocupados
+C14,Fabricación de prendas de vestir,2023,Ecuador,8672.0,nivel_ocupados
+C15,Fabricación de productos de cuero y productos conexos,2023,Ecuador,6466.0,nivel_ocupados
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,Ecuador,4834.0,nivel_ocupados
+C17,Fabricación de papel y de productos de papel,2023,Ecuador,10213.0,nivel_ocupados
+C18,Impresión y reproducción de grabaciones,2023,Ecuador,2009.0,nivel_ocupados
+C19,Fabricación de coque y productos de la refinación del petróleo,2023,Ecuador,4450.0,nivel_ocupados
+C20,Fabricación de sustancias y productos químicos,2023,Ecuador,10857.0,nivel_ocupados
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,Ecuador,5383.0,nivel_ocupados
+C22,Fabricación de productos de caucho y de plástico,2023,Ecuador,15009.0,nivel_ocupados
+C23,Fabricación de otros productos minerales no metálicos,2023,Ecuador,6553.0,nivel_ocupados
+C24,Fabricación de metales comunes,2023,Ecuador,6711.0,nivel_ocupados
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,Ecuador,7001.0,nivel_ocupados
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,Ecuador,3405.0,nivel_ocupados
+C27,Fabricación de equipo eléctrico,2023,Ecuador,5002.0,nivel_ocupados
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,Ecuador,1708.0,nivel_ocupados
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,Ecuador,1651.0,nivel_ocupados
+C30,Fabricación de otro equipo de transporte,2023,Ecuador,2646.0,nivel_ocupados
+C31,Fabricación de muebles,2023,Ecuador,4015.0,nivel_ocupados
+C32,Otras industrias manufactureras,2023,Ecuador,229.0,nivel_ocupados
+C33,Reparación e instalación de maquinaria y equipo,2023,Ecuador,4470.0,nivel_ocupados
+C,Industrias manufactureras,2023,México,4814229.0,nivel_ocupados
+C10,Elaboración de productos alimenticios,2023,México,871298.0,nivel_ocupados
+C11,Elaboración de bebidas,2023,México,152082.0,nivel_ocupados
+C12,Elaboración de productos de tabaco,2023,México,2063.0,nivel_ocupados
+C13,Fabricación de productos textiles,2023,México,388369.0,nivel_ocupados
+C14,Fabricación de prendas de vestir,2023,México,253049.0,nivel_ocupados
+C15,Fabricación de productos de cuero y productos conexos,2023,México,131727.0,nivel_ocupados
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,México,106325.0,nivel_ocupados
+C17,Fabricación de papel y de productos de papel,2023,México,104763.0,nivel_ocupados
+C18,Impresión y reproducción de grabaciones,2023,México,9924.0,nivel_ocupados
+C19,Fabricación de coque y productos de la refinación del petróleo,2023,México,25044.0,nivel_ocupados
+C20,Fabricación de sustancias y productos químicos,2023,México,174439.0,nivel_ocupados
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,México,81073.0,nivel_ocupados
+C22,Fabricación de productos de caucho y de plástico,2023,México,272792.0,nivel_ocupados
+C23,Fabricación de otros productos minerales no metálicos,2023,México,202806.0,nivel_ocupados
+C24,Fabricación de metales comunes,2023,México,116057.0,nivel_ocupados
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,México,402585.0,nivel_ocupados
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,México,347040.0,nivel_ocupados
+C27,Fabricación de equipo eléctrico,2023,México,477099.0,nivel_ocupados
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,México,446864.0,nivel_ocupados
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,México,121602.0,nivel_ocupados
+C30,Fabricación de otro equipo de transporte,2023,México,24624.0,nivel_ocupados
+C31,Fabricación de muebles,2023,México,93898.0,nivel_ocupados
+C32,Otras industrias manufactureras,2023,México,8706.0,nivel_ocupados
+C,Industrias manufactureras,2023,Brasil,114356.84,remuneracion
+C10,Elaboración de productos alimenticios,2023,Brasil,23294.44,remuneracion
+C11,Elaboración de bebidas,2023,Brasil,3163.83,remuneracion
+C12,Elaboración de productos de tabaco,2023,Brasil,468.51,remuneracion
+C13,Fabricación de productos textiles,2023,Brasil,2398.25,remuneracion
+C14,Fabricación de prendas de vestir,2023,Brasil,2573.77,remuneracion
+C15,Fabricación de productos de cuero y productos conexos,2023,Brasil,2184.8,remuneracion
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,Brasil,1281.46,remuneracion
+C17,Fabricación de papel y de productos de papel,2023,Brasil,4167.44,remuneracion
+C18,Impresión y reproducción de grabaciones,2023,Brasil,685.07,remuneracion
+C19,Fabricación de coque y productos de la refinación del petróleo,2023,Brasil,7169.91,remuneracion
+C20,Fabricación de sustancias y productos químicos,2023,Brasil,10091.47,remuneracion
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,Brasil,3966.97,remuneracion
+C22,Fabricación de productos de caucho y de plástico,2023,Brasil,5169.38,remuneracion
+C23,Fabricación de otros productos minerales no metálicos,2023,Brasil,4373.99,remuneracion
+C24,Fabricación de metales comunes,2023,Brasil,5814.56,remuneracion
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,Brasil,4412.27,remuneracion
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,Brasil,2639.04,remuneracion
+C27,Fabricación de equipo eléctrico,2023,Brasil,4426.07,remuneracion
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,Brasil,7828.97,remuneracion
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,Brasil,10214.83,remuneracion
+C30,Fabricación de otro equipo de transporte,2023,Brasil,2126.13,remuneracion
+C31,Fabricación de muebles,2023,Brasil,1663.27,remuneracion
+C32,Otras industrias manufactureras,2023,Brasil,1598.94,remuneracion
+C33,Reparación e instalación de maquinaria y equipo,2023,Brasil,2643.47,remuneracion
+C,Industrias manufactureras,2023,Chile,7341.21,remuneracion
+C10,Elaboración de productos alimenticios,2023,Chile,2463.28,remuneracion
+C11,Elaboración de bebidas,2023,Chile,356.26,remuneracion
+C13,Fabricación de productos textiles,2023,Chile,43.0,remuneracion
+C14,Fabricación de prendas de vestir,2023,Chile,29.11,remuneracion
+C15,Fabricación de productos de cuero y productos conexos,2023,Chile,16.15,remuneracion
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,Chile,344.3,remuneracion
+C17,Fabricación de papel y de productos de papel,2023,Chile,335.81,remuneracion
+C18,Impresión y reproducción de grabaciones,2023,Chile,84.66,remuneracion
+C20,Fabricación de sustancias y productos químicos,2023,Chile,832.69,remuneracion
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,Chile,253.58,remuneracion
+C22,Fabricación de productos de caucho y de plástico,2023,Chile,382.22,remuneracion
+C23,Fabricación de otros productos minerales no metálicos,2023,Chile,328.4,remuneracion
+C24,Fabricación de metales comunes,2023,Chile,140.49,remuneracion
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,Chile,419.45,remuneracion
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,Chile,5.67,remuneracion
+C27,Fabricación de equipo eléctrico,2023,Chile,135.88,remuneracion
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,Chile,140.33,remuneracion
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,Chile,23.19,remuneracion
+C30,Fabricación de otro equipo de transporte,2023,Chile,8.39,remuneracion
+C31,Fabricación de muebles,2023,Chile,133.89,remuneracion
+C32,Otras industrias manufactureras,2023,Chile,33.68,remuneracion
+C33,Reparación e instalación de maquinaria y equipo,2023,Chile,454.29,remuneracion
+CXX,Otras empresas/establecimientos anonimizados,2023,Chile,376.49,remuneracion
+C,Industrias manufactureras,2023,Ecuador,5017.44,remuneracion
+C10,Elaboración de productos alimenticios,2023,Ecuador,2363.55,remuneracion
+C11,Elaboración de bebidas,2023,Ecuador,187.52,remuneracion
+C13,Fabricación de productos textiles,2023,Ecuador,165.59,remuneracion
+C14,Fabricación de prendas de vestir,2023,Ecuador,89.89,remuneracion
+C15,Fabricación de productos de cuero y productos conexos,2023,Ecuador,80.1,remuneracion
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,Ecuador,83.5,remuneracion
+C17,Fabricación de papel y de productos de papel,2023,Ecuador,216.21,remuneracion
+C18,Impresión y reproducción de grabaciones,2023,Ecuador,37.84,remuneracion
+C19,Fabricación de coque y productos de la refinación del petróleo,2023,Ecuador,278.08,remuneracion
+C20,Fabricación de sustancias y productos químicos,2023,Ecuador,268.73,remuneracion
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,Ecuador,120.79,remuneracion
+C22,Fabricación de productos de caucho y de plástico,2023,Ecuador,271.64,remuneracion
+C23,Fabricación de otros productos minerales no metálicos,2023,Ecuador,172.41,remuneracion
+C24,Fabricación de metales comunes,2023,Ecuador,138.8,remuneracion
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,Ecuador,118.88,remuneracion
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,Ecuador,57.03,remuneracion
+C27,Fabricación de equipo eléctrico,2023,Ecuador,93.91,remuneracion
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,Ecuador,34.09,remuneracion
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,Ecuador,38.21,remuneracion
+C30,Fabricación de otro equipo de transporte,2023,Ecuador,44.31,remuneracion
+C31,Fabricación de muebles,2023,Ecuador,62.15,remuneracion
+C32,Otras industrias manufactureras,2023,Ecuador,3.88,remuneracion
+C33,Reparación e instalación de maquinaria y equipo,2023,Ecuador,90.33,remuneracion
+C,Industrias manufactureras,2023,México,68197.17,remuneracion
+C10,Elaboración de productos alimenticios,2023,México,7484.44,remuneracion
+C11,Elaboración de bebidas,2023,México,1729.14,remuneracion
+C12,Elaboración de productos de tabaco,2023,México,122.2,remuneracion
+C13,Fabricación de productos textiles,2023,México,4536.02,remuneracion
+C14,Fabricación de prendas de vestir,2023,México,1423.19,remuneracion
+C15,Fabricación de productos de cuero y productos conexos,2023,México,996.48,remuneracion
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,México,742.78,remuneracion
+C17,Fabricación de papel y de productos de papel,2023,México,1713.96,remuneracion
+C18,Impresión y reproducción de grabaciones,2023,México,174.34,remuneracion
+C19,Fabricación de coque y productos de la refinación del petróleo,2023,México,767.0,remuneracion
+C20,Fabricación de sustancias y productos químicos,2023,México,4050.95,remuneracion
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,México,1467.44,remuneracion
+C22,Fabricación de productos de caucho y de plástico,2023,México,4419.85,remuneracion
+C23,Fabricación de otros productos minerales no metálicos,2023,México,3719.63,remuneracion
+C24,Fabricación de metales comunes,2023,México,2865.88,remuneracion
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,México,4640.14,remuneracion
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,México,6079.23,remuneracion
+C27,Fabricación de equipo eléctrico,2023,México,7784.2,remuneracion
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,México,8817.67,remuneracion
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,México,3521.8,remuneracion
+C30,Fabricación de otro equipo de transporte,2023,México,431.66,remuneracion
+C31,Fabricación de muebles,2023,México,610.7,remuneracion
+C32,Otras industrias manufactureras,2023,México,98.47,remuneracion
+C,Industrias manufactureras,2023,Brasil,228089.19,valor_agregado
+C10,Elaboración de productos alimenticios,2023,Brasil,50582.77,valor_agregado
+C11,Elaboración de bebidas,2023,Brasil,9662.86,valor_agregado
+C12,Elaboración de productos de tabaco,2023,Brasil,1196.9,valor_agregado
+C13,Fabricación de productos textiles,2023,Brasil,3819.13,valor_agregado
+C14,Fabricación de prendas de vestir,2023,Brasil,4160.37,valor_agregado
+C15,Fabricación de productos de cuero y productos conexos,2023,Brasil,3545.42,valor_agregado
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,Brasil,2496.58,valor_agregado
+C17,Fabricación de papel y de productos de papel,2023,Brasil,11325.76,valor_agregado
+C18,Impresión y reproducción de grabaciones,2023,Brasil,1086.97,valor_agregado
+C19,Fabricación de coque y productos de la refinación del petróleo,2023,Brasil,41826.34,valor_agregado
+C20,Fabricación de sustancias y productos químicos,2023,Brasil,4298.67,valor_agregado
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,Brasil,8124.78,valor_agregado
+C22,Fabricación de productos de caucho y de plástico,2023,Brasil,9683.44,valor_agregado
+C23,Fabricación de otros productos minerales no metálicos,2023,Brasil,9270.72,valor_agregado
+C24,Fabricación de metales comunes,2023,Brasil,14642.56,valor_agregado
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,Brasil,8112.9,valor_agregado
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,Brasil,-14510.87,valor_agregado
+C27,Fabricación de equipo eléctrico,2023,Brasil,7788.14,valor_agregado
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,Brasil,16175.63,valor_agregado
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,Brasil,20967.7,valor_agregado
+C30,Fabricación de otro equipo de transporte,2023,Brasil,4343.81,valor_agregado
+C31,Fabricación de muebles,2023,Brasil,2522.84,valor_agregado
+C32,Otras industrias manufactureras,2023,Brasil,3010.41,valor_agregado
+C33,Reparación e instalación de maquinaria y equipo,2023,Brasil,3955.36,valor_agregado
+C,Industrias manufactureras,2023,Chile,20194.13,valor_agregado
+C10,Elaboración de productos alimenticios,2023,Chile,7485.59,valor_agregado
+C11,Elaboración de bebidas,2023,Chile,1677.23,valor_agregado
+C13,Fabricación de productos textiles,2023,Chile,75.91,valor_agregado
+C14,Fabricación de prendas de vestir,2023,Chile,47.93,valor_agregado
+C15,Fabricación de productos de cuero y productos conexos,2023,Chile,26.75,valor_agregado
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,Chile,983.18,valor_agregado
+C17,Fabricación de papel y de productos de papel,2023,Chile,917.22,valor_agregado
+C18,Impresión y reproducción de grabaciones,2023,Chile,73.72,valor_agregado
+C20,Fabricación de sustancias y productos químicos,2023,Chile,3005.62,valor_agregado
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,Chile,594.21,valor_agregado
+C22,Fabricación de productos de caucho y de plástico,2023,Chile,620.7,valor_agregado
+C23,Fabricación de otros productos minerales no metálicos,2023,Chile,788.49,valor_agregado
+C24,Fabricación de metales comunes,2023,Chile,9.57,valor_agregado
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,Chile,733.8,valor_agregado
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,Chile,9.01,valor_agregado
+C27,Fabricación de equipo eléctrico,2023,Chile,230.05,valor_agregado
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,Chile,423.84,valor_agregado
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,Chile,48.66,valor_agregado
+C30,Fabricación de otro equipo de transporte,2023,Chile,9.55,valor_agregado
+C31,Fabricación de muebles,2023,Chile,180.59,valor_agregado
+C32,Otras industrias manufactureras,2023,Chile,79.69,valor_agregado
+C33,Reparación e instalación de maquinaria y equipo,2023,Chile,873.2,valor_agregado
+CXX,Otras empresas/establecimientos anonimizados,2023,Chile,1299.62,valor_agregado
+C,Industrias manufactureras,2023,Ecuador,8723.59,valor_agregado
+C10,Elaboración de productos alimenticios,2023,Ecuador,3932.12,valor_agregado
+C11,Elaboración de bebidas,2023,Ecuador,421.4,valor_agregado
+C13,Fabricación de productos textiles,2023,Ecuador,206.62,valor_agregado
+C14,Fabricación de prendas de vestir,2023,Ecuador,115.96,valor_agregado
+C15,Fabricación de productos de cuero y productos conexos,2023,Ecuador,120.57,valor_agregado
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,Ecuador,172.78,valor_agregado
+C17,Fabricación de papel y de productos de papel,2023,Ecuador,445.82,valor_agregado
+C18,Impresión y reproducción de grabaciones,2023,Ecuador,58.0,valor_agregado
+C19,Fabricación de coque y productos de la refinación del petróleo,2023,Ecuador,196.96,valor_agregado
+C20,Fabricación de sustancias y productos químicos,2023,Ecuador,559.6,valor_agregado
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,Ecuador,164.08,valor_agregado
+C22,Fabricación de productos de caucho y de plástico,2023,Ecuador,513.91,valor_agregado
+C23,Fabricación de otros productos minerales no metálicos,2023,Ecuador,503.88,valor_agregado
+C24,Fabricación de metales comunes,2023,Ecuador,370.85,valor_agregado
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,Ecuador,192.34,valor_agregado
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,Ecuador,114.05,valor_agregado
+C27,Fabricación de equipo eléctrico,2023,Ecuador,185.72,valor_agregado
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,Ecuador,50.15,valor_agregado
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,Ecuador,72.0,valor_agregado
+C30,Fabricación de otro equipo de transporte,2023,Ecuador,81.99,valor_agregado
+C31,Fabricación de muebles,2023,Ecuador,104.4,valor_agregado
+C32,Otras industrias manufactureras,2023,Ecuador,7.75,valor_agregado
+C33,Reparación e instalación de maquinaria y equipo,2023,Ecuador,132.64,valor_agregado
+C,Industrias manufactureras,2023,México,251827.05,valor_agregado
+C10,Elaboración de productos alimenticios,2023,México,38220.74,valor_agregado
+C11,Elaboración de bebidas,2023,México,17039.37,valor_agregado
+C12,Elaboración de productos de tabaco,2023,México,671.86,valor_agregado
+C13,Fabricación de productos textiles,2023,México,10061.68,valor_agregado
+C14,Fabricación de prendas de vestir,2023,México,2816.91,valor_agregado
+C15,Fabricación de productos de cuero y productos conexos,2023,México,1864.62,valor_agregado
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,México,1792.01,valor_agregado
+C17,Fabricación de papel y de productos de papel,2023,México,5782.33,valor_agregado
+C18,Impresión y reproducción de grabaciones,2023,México,346.19,valor_agregado
+C19,Fabricación de coque y productos de la refinación del petróleo,2023,México,13549.55,valor_agregado
+C20,Fabricación de sustancias y productos químicos,2023,México,18667.66,valor_agregado
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,México,2463.84,valor_agregado
+C22,Fabricación de productos de caucho y de plástico,2023,México,11690.93,valor_agregado
+C23,Fabricación de otros productos minerales no metálicos,2023,México,14817.22,valor_agregado
+C24,Fabricación de metales comunes,2023,México,14208.16,valor_agregado
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,México,13999.34,valor_agregado
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,México,10216.12,valor_agregado
+C27,Fabricación de equipo eléctrico,2023,México,18828.45,valor_agregado
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,México,23574.26,valor_agregado
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,México,28572.25,valor_agregado
+C30,Fabricación de otro equipo de transporte,2023,México,1122.14,valor_agregado
+C31,Fabricación de muebles,2023,México,1275.9,valor_agregado
+C32,Otras industrias manufactureras,2023,México,245.52,valor_agregado
+C,Industrias manufactureras,2023,Brasil,996178.96,valor_bruto_produccion
+C10,Elaboración de productos alimenticios,2023,Brasil,251987.83,valor_bruto_produccion
+C11,Elaboración de bebidas,2023,Brasil,30613.44,valor_bruto_produccion
+C12,Elaboración de productos de tabaco,2023,Brasil,4900.01,valor_bruto_produccion
+C13,Fabricación de productos textiles,2023,Brasil,13335.54,valor_bruto_produccion
+C14,Fabricación de prendas de vestir,2023,Brasil,11091.67,valor_bruto_produccion
+C15,Fabricación de productos de cuero y productos conexos,2023,Brasil,9872.12,valor_bruto_produccion
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,Brasil,8364.36,valor_bruto_produccion
+C17,Fabricación de papel y de productos de papel,2023,Brasil,35294.27,valor_bruto_produccion
+C18,Impresión y reproducción de grabaciones,2023,Brasil,3008.56,valor_bruto_produccion
+C19,Fabricación de coque y productos de la refinación del petróleo,2023,Brasil,104160.47,valor_bruto_produccion
+C20,Fabricación de sustancias y productos químicos,2023,Brasil,104098.06,valor_bruto_produccion
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,Brasil,19784.31,valor_bruto_produccion
+C22,Fabricación de productos de caucho y de plástico,2023,Brasil,35688.92,valor_bruto_produccion
+C23,Fabricación de otros productos minerales no metálicos,2023,Brasil,29563.54,valor_bruto_produccion
+C24,Fabricación de metales comunes,2023,Brasil,77135.66,valor_bruto_produccion
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,Brasil,27162.28,valor_bruto_produccion
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,Brasil,7847.77,valor_bruto_produccion
+C27,Fabricación de equipo eléctrico,2023,Brasil,30368.87,valor_bruto_produccion
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,Brasil,54211.98,valor_bruto_produccion
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,Brasil,97599.59,valor_bruto_produccion
+C30,Fabricación de otro equipo de transporte,2023,Brasil,14363.43,valor_bruto_produccion
+C31,Fabricación de muebles,2023,Brasil,8535.73,valor_bruto_produccion
+C32,Otras industrias manufactureras,2023,Brasil,7694.76,valor_bruto_produccion
+C33,Reparación e instalación de maquinaria y equipo,2023,Brasil,9495.79,valor_bruto_produccion
+C,Industrias manufactureras,2023,Chile,80413.39,valor_bruto_produccion
+C10,Elaboración de productos alimenticios,2023,Chile,31630.24,valor_bruto_produccion
+C11,Elaboración de bebidas,2023,Chile,5692.82,valor_bruto_produccion
+C13,Fabricación de productos textiles,2023,Chile,234.0,valor_bruto_produccion
+C14,Fabricación de prendas de vestir,2023,Chile,112.33,valor_bruto_produccion
+C15,Fabricación de productos de cuero y productos conexos,2023,Chile,52.25,valor_bruto_produccion
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,Chile,3051.98,valor_bruto_produccion
+C17,Fabricación de papel y de productos de papel,2023,Chile,3721.75,valor_bruto_produccion
+C18,Impresión y reproducción de grabaciones,2023,Chile,271.48,valor_bruto_produccion
+C20,Fabricación de sustancias y productos químicos,2023,Chile,15432.99,valor_bruto_produccion
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,Chile,1338.9,valor_bruto_produccion
+C22,Fabricación de productos de caucho y de plástico,2023,Chile,2624.9,valor_bruto_produccion
+C23,Fabricación de otros productos minerales no metálicos,2023,Chile,3090.52,valor_bruto_produccion
+C24,Fabricación de metales comunes,2023,Chile,2223.95,valor_bruto_produccion
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,Chile,2210.81,valor_bruto_produccion
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,Chile,21.67,valor_bruto_produccion
+C27,Fabricación de equipo eléctrico,2023,Chile,1062.18,valor_bruto_produccion
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,Chile,856.75,valor_bruto_produccion
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,Chile,146.56,valor_bruto_produccion
+C30,Fabricación de otro equipo de transporte,2023,Chile,41.59,valor_bruto_produccion
+C31,Fabricación de muebles,2023,Chile,557.95,valor_bruto_produccion
+C32,Otras industrias manufactureras,2023,Chile,161.5,valor_bruto_produccion
+C33,Reparación e instalación de maquinaria y equipo,2023,Chile,1537.31,valor_bruto_produccion
+CXX,Otras empresas/establecimientos anonimizados,2023,Chile,4338.96,valor_bruto_produccion
+C,Industrias manufactureras,2023,Ecuador,42328.01,valor_bruto_produccion
+C10,Elaboración de productos alimenticios,2023,Ecuador,19023.53,valor_bruto_produccion
+C11,Elaboración de bebidas,2023,Ecuador,1380.98,valor_bruto_produccion
+C13,Fabricación de productos textiles,2023,Ecuador,620.63,valor_bruto_produccion
+C14,Fabricación de prendas de vestir,2023,Ecuador,299.49,valor_bruto_produccion
+C15,Fabricación de productos de cuero y productos conexos,2023,Ecuador,351.73,valor_bruto_produccion
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,Ecuador,581.42,valor_bruto_produccion
+C17,Fabricación de papel y de productos de papel,2023,Ecuador,1962.28,valor_bruto_produccion
+C18,Impresión y reproducción de grabaciones,2023,Ecuador,186.31,valor_bruto_produccion
+C19,Fabricación de coque y productos de la refinación del petróleo,2023,Ecuador,7570.88,valor_bruto_produccion
+C20,Fabricación de sustancias y productos químicos,2023,Ecuador,1844.88,valor_bruto_produccion
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,Ecuador,467.28,valor_bruto_produccion
+C22,Fabricación de productos de caucho y de plástico,2023,Ecuador,1639.43,valor_bruto_produccion
+C23,Fabricación de otros productos minerales no metálicos,2023,Ecuador,1236.86,valor_bruto_produccion
+C24,Fabricación de metales comunes,2023,Ecuador,1515.16,valor_bruto_produccion
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,Ecuador,986.86,valor_bruto_produccion
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,Ecuador,332.66,valor_bruto_produccion
+C27,Fabricación de equipo eléctrico,2023,Ecuador,708.74,valor_bruto_produccion
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,Ecuador,115.29,valor_bruto_produccion
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,Ecuador,504.79,valor_bruto_produccion
+C30,Fabricación de otro equipo de transporte,2023,Ecuador,299.84,valor_bruto_produccion
+C31,Fabricación de muebles,2023,Ecuador,287.61,valor_bruto_produccion
+C32,Otras industrias manufactureras,2023,Ecuador,20.12,valor_bruto_produccion
+C33,Reparación e instalación de maquinaria y equipo,2023,Ecuador,391.24,valor_bruto_produccion
+C,Industrias manufactureras,2023,México,675578.95,valor_bruto_produccion
+C10,Elaboración de productos alimenticios,2023,México,103901.52,valor_bruto_produccion
+C11,Elaboración de bebidas,2023,México,36129.58,valor_bruto_produccion
+C12,Elaboración de productos de tabaco,2023,México,1067.54,valor_bruto_produccion
+C13,Fabricación de productos textiles,2023,México,23676.73,valor_bruto_produccion
+C14,Fabricación de prendas de vestir,2023,México,6135.48,valor_bruto_produccion
+C15,Fabricación de productos de cuero y productos conexos,2023,México,4508.01,valor_bruto_produccion
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,México,4668.99,valor_bruto_produccion
+C17,Fabricación de papel y de productos de papel,2023,México,19528.9,valor_bruto_produccion
+C18,Impresión y reproducción de grabaciones,2023,México,831.79,valor_bruto_produccion
+C19,Fabricación de coque y productos de la refinación del petróleo,2023,México,29620.62,valor_bruto_produccion
+C20,Fabricación de sustancias y productos químicos,2023,México,53632.56,valor_bruto_produccion
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,México,3666.16,valor_bruto_produccion
+C22,Fabricación de productos de caucho y de plástico,2023,México,30291.13,valor_bruto_produccion
+C23,Fabricación de otros productos minerales no metálicos,2023,México,33718.91,valor_bruto_produccion
+C24,Fabricación de metales comunes,2023,México,49767.45,valor_bruto_produccion
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,México,35431.05,valor_bruto_produccion
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,México,15289.34,valor_bruto_produccion
+C27,Fabricación de equipo eléctrico,2023,México,43643.06,valor_bruto_produccion
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,México,57274.4,valor_bruto_produccion
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,México,117586.25,valor_bruto_produccion
+C30,Fabricación de otro equipo de transporte,2023,México,1758.16,valor_bruto_produccion
+C31,Fabricación de muebles,2023,México,2598.32,valor_bruto_produccion
+C32,Otras industrias manufactureras,2023,México,853.0,valor_bruto_produccion
+C,Industrias manufactureras,2023,Chile,2526678.0,consumo_energetico
+C10,Elaboración de productos alimenticios,2023,Chile,2384252.0,consumo_energetico
+C11,Elaboración de bebidas,2023,Chile,3232.0,consumo_energetico
+C13,Fabricación de productos textiles,2023,Chile,16.0,consumo_energetico
+C14,Fabricación de prendas de vestir,2023,Chile,11.0,consumo_energetico
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,Chile,1670.0,consumo_energetico
+C17,Fabricación de papel y de productos de papel,2023,Chile,6160.0,consumo_energetico
+C18,Impresión y reproducción de grabaciones,2023,Chile,9.0,consumo_energetico
+C20,Fabricación de sustancias y productos químicos,2023,Chile,122974.0,consumo_energetico
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,Chile,41.0,consumo_energetico
+C22,Fabricación de productos de caucho y de plástico,2023,Chile,411.0,consumo_energetico
+C23,Fabricación de otros productos minerales no metálicos,2023,Chile,169.0,consumo_energetico
+C24,Fabricación de metales comunes,2023,Chile,1083.0,consumo_energetico
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,Chile,449.0,consumo_energetico
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,Chile,0.0,consumo_energetico
+C27,Fabricación de equipo eléctrico,2023,Chile,32.0,consumo_energetico
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,Chile,62.0,consumo_energetico
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,Chile,0.0,consumo_energetico
+C31,Fabricación de muebles,2023,Chile,31.0,consumo_energetico
+C32,Otras industrias manufactureras,2023,Chile,2.0,consumo_energetico
+C33,Reparación e instalación de maquinaria y equipo,2023,Chile,16.0,consumo_energetico
+CXX,Otras empresas/establecimientos anonimizados,2023,Chile,6050.0,consumo_energetico
+C,Industrias manufactureras,2023,Ecuador,40609.0,consumo_energetico
+C10,Elaboración de productos alimenticios,2023,Ecuador,17251.0,consumo_energetico
+C11,Elaboración de bebidas,2023,Ecuador,595.0,consumo_energetico
+C13,Fabricación de productos textiles,2023,Ecuador,927.0,consumo_energetico
+C14,Fabricación de prendas de vestir,2023,Ecuador,128.0,consumo_energetico
+C15,Fabricación de productos de cuero y productos conexos,2023,Ecuador,79.0,consumo_energetico
+C16,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",2023,Ecuador,577.0,consumo_energetico
+C17,Fabricación de papel y de productos de papel,2023,Ecuador,3345.0,consumo_energetico
+C18,Impresión y reproducción de grabaciones,2023,Ecuador,28.0,consumo_energetico
+C19,Fabricación de coque y productos de la refinación del petróleo,2023,Ecuador,946.0,consumo_energetico
+C20,Fabricación de sustancias y productos químicos,2023,Ecuador,1558.0,consumo_energetico
+C21,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",2023,Ecuador,145.0,consumo_energetico
+C22,Fabricación de productos de caucho y de plástico,2023,Ecuador,714.0,consumo_energetico
+C23,Fabricación de otros productos minerales no metálicos,2023,Ecuador,11689.0,consumo_energetico
+C24,Fabricación de metales comunes,2023,Ecuador,1342.0,consumo_energetico
+C25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",2023,Ecuador,469.0,consumo_energetico
+C26,"Fabricación de productos de informática, de electrónica y de óptica",2023,Ecuador,41.0,consumo_energetico
+C27,Fabricación de equipo eléctrico,2023,Ecuador,296.0,consumo_energetico
+C28,Fabricación de maquinaria y equipo n.c.p.,2023,Ecuador,110.0,consumo_energetico
+C29,"Fabricación de vehículos automotores, remolques y semirremolques",2023,Ecuador,93.0,consumo_energetico
+C30,Fabricación de otro equipo de transporte,2023,Ecuador,120.0,consumo_energetico
+C31,Fabricación de muebles,2023,Ecuador,53.0,consumo_energetico
+C32,Otras industrias manufactureras,2023,Ecuador,4.0,consumo_energetico
+C33,Reparación e instalación de maquinaria y equipo,2023,Ecuador,88.0,consumo_energetico

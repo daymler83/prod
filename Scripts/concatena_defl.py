@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Ruta del archivo
-ruta = r"C:\daymler\CEPAL\prod\Datos\consolidado_final_limpio.xlsx"
+ruta = r"C:\Daymler\7. Miscelláneos\20.Cepal\Prod\Datos\consolidado_final_limpio.xlsx"
 
 # Hojas a incluir
 paises = ["Ecuador", "Perú", "Colombia", "Brasil", "Uruguay"]
@@ -29,6 +29,7 @@ for pais in paises:
 
     # Ordenar columnas
     df_melt = df_melt[["pais", "anio", "codigo", "glosa", "valor"]]
+    df_melt.rename(columns={'valor':'deflactor'}, inplace=True)
 
     dfs.append(df_melt)
 
@@ -36,10 +37,7 @@ for pais in paises:
 consolidado = pd.concat(dfs, ignore_index=True)
 
 # Exportar
-salida = r"C:\daymler\CEPAL\prod\Datos\consolidado_final_limpio_concatenado.xlsx"
+salida = r"C:\Daymler\7. Miscelláneos\20.Cepal\Prod\Datos\consolidado_final_limpio_concatenado.xlsx"
 consolidado.to_excel(salida, index=False)
 
-print("✓ Consolidado generado con éxito.")
-print("Filas:", consolidado.shape[0])
-print("Columnas:", consolidado.columns.tolist())
-print("Archivo guardado en:", salida)
+
